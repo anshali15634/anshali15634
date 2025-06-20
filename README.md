@@ -5,8 +5,9 @@
 - 🧠 Interested in Machine Learning, Computer Vision & Reinforcement Learning :)
 
 ### 🎯 Projects:
-- **Semi-Automatic Video Object Segmentation (Individual Dissertation)**
 - **Financial Market Forecasting using Machine Learning for Profitability Analysis**
+- **Oil Palm Seed Quality Classification with Data Augmentation Analysis and Deep Learning Frameworks**
+- **Semi-Automatic Video Object Segmentation (Individual Dissertation)**
 - **Evolutionary Reinforcement Learning**
 - **EEG-Based Stress Detection**
 - **Flower Segmentation using Image Processing**
