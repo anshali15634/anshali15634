@@ -1,6 +1,6 @@
 ## Anshali Manoharan •ᴗ• 
 
-## About Me:
+### About Me:
 - Computer Science with AI Graduate from the University of Nottingham Malaysia
 - Interested in AI (Machine Learning, Computer Vision & Reinforcement Learning)
 
@@ -19,8 +19,6 @@
 - **Computer Vision Intern | University of Nottingham (Jun 2024 – Aug 2024)**  
   - Designed a semi-automatic video object segmentation (VOS) scheme for detection and tracking.  
   - Applied graph theory, probability, and shortest-path algorithms to improve segmentation accuracy.  
-
-## Projects
 
 ### 🤖 Machine Learning & AI
 - **Financial Market Forecasting with Machine Learning and Macroeconomic Indicators**  
