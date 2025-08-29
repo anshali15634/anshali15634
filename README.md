@@ -1,10 +1,10 @@
 ## Anshali Manoharan •ᴗ• 
 
-### About Me:
+## About Me:
 - Computer Science with AI Graduate from the University of Nottingham Malaysia
 - Interested in AI (Machine Learning, Computer Vision & Reinforcement Learning)
 
-## Work Experience
+### Work Experience
 
 - **Machine Learning & Computer Vision Intern | University of Nottingham (Jun 2025 – Aug 2025)**  
   - Improved ETF market forecasting by 69% using a custom ML framework.  
