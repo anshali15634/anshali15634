@@ -2,7 +2,7 @@
 
 ### About Me:
 - Computer Science with AI Graduate from the University of Nottingham Malaysia
-- Interested in AI (Machine Learning, Computer Vision & Reinforcement Learning)
+- Interested in AI (Machine Learning, Natural Language Processing, Computer Vision & Reinforcement Learning)
 
 ---
 
@@ -46,6 +46,18 @@
   - Fine-tuned GoogLeNet on a proprietary agricultural dataset.  
   - Implemented targeted data augmentation to improve model generalization.  
   - Boosted classification accuracy by 12%.  
+
+---
+
+### 🤖 Natural Language Processing
+- **MetaCognify: AI-Powered Educational Platform**
+  - Built and deployed an LLM-powered educational chatbot platform using Falcon-180B, applying Feynman Technique and Socratic Method via prompt engineering to improve knowledge retention and critical thinking.
+  - Designed NLP pipelines for personalized learning, including automated gap analysis, adaptive questioning, and AI-generated feedback using LLM text evaluation.
+
+- **Responsive AI ChatBot Platform with Vercel, OpenAI, Google Gemini**
+  - Developed a responsive AI chatbot with support for multiple models, including OpenAI and Google Gemini.
+  - Implemented real-time streaming of AI-generated responses using Next.js, TypeScript, and Vercel AI SDK.
+  - Designed a modern, user-friendly interface with Tailwind CSS and deployed on Vercel.
 
 ---
 
